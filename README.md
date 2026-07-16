@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/ridarshi/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ridarshi/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ridarshi/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/ridarshi/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ridarshi/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
