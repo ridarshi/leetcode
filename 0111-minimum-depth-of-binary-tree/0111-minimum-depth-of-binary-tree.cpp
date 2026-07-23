@@ -12,18 +12,30 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        if(root == nullptr) return 0;
+        if(root == NULL) return 0;
 
-        // if there is no left subtree
-        if(root -> left == nullptr){
-            return 1 + minDepth(root -> right);
+        queue <TreeNode*> q;
+        q.push(root);
+
+        int depth = 0;
+
+        while(!q.empty()){
+            int size = q.size();
+
+            depth++;
+
+            for(int i = 0;i<size;i++){
+                TreeNode* node = q.front();
+                q.pop();
+
+                if(node -> left != NULL) q.push(node -> left);
+                if(node -> right != NULL) q.push(node -> right);
+
+                if(node -> left == NULL && node -> right == NULL){
+                    return depth;
+                }
+            }
         }
-
-        // if there is no right subtree
-        if(root -> right == nullptr){
-            return 1 + minDepth(root -> left);
-        }
-
-        return 1 + min(minDepth(root->left), minDepth(root -> right));
+        return -1;
     }
 };
