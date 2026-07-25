@@ -29,10 +29,12 @@
 | [0015-3sum](https://github.com/ridarshi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ridarshi/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridarshi/leetcode/tree/master/0001-two-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0257-binary-tree-paths](https://github.com/ridarshi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ridarshi/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0257-binary-tree-paths](https://github.com/ridarshi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ridarshi/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +122,7 @@
 | [0257-binary-tree-paths](https://github.com/ridarshi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ridarshi/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,6 +135,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ridarshi/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
