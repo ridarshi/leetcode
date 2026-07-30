@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -32,6 +33,7 @@
 | [0015-3sum](https://github.com/ridarshi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ridarshi/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ridarshi/leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridarshi/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
