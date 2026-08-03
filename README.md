@@ -18,6 +18,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ridarshi/leetcode/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridarshi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridarshi/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,4 +246,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/ridarshi/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridarshi/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridarshi/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
