@@ -12,6 +12,7 @@
 class BSTIterator {
 private: stack<TreeNode*> st;
 
+    // push all left children starting from 'root'
     void pushAllLeft(TreeNode* root){
         while(root){
             st.push(root);
@@ -19,10 +20,12 @@ private: stack<TreeNode*> st;
         }
     }
 public:
+    // constructor
     BSTIterator(TreeNode* root) {
         pushAllLeft(root);
     }
     
+    // returns the next smallest element
     int next() {
         TreeNode* tempnode = st.top();
         st.pop();
@@ -30,6 +33,7 @@ public:
         return tempnode -> val;
     }
     
+    // returns true if there are more elements
     bool hasNext() {
         return !st.empty();
     }
