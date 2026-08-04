@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridarshi/leetcode/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridarshi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ridarshi/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
