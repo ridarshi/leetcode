@@ -62,6 +62,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ridarshi/leetcode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridarshi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ridarshi/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
@@ -295,4 +297,5 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
