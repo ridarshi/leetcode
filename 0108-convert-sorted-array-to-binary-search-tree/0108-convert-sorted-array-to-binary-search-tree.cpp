@@ -28,8 +28,6 @@ public:
 
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         int n = nums.size();
-        if (n == 0)
-            return nullptr;
         return build(nums, 0, n - 1);
     }
 };
