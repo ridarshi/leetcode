@@ -256,6 +256,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ridarshi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0520-detect-capital](https://github.com/ridarshi/leetcode/tree/master/0520-detect-capital) |
 | [0572-subtree-of-another-tree](https://github.com/ridarshi/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Function
