@@ -4,8 +4,8 @@ public:
         int shift = 0;
 
         while(left != right){
-            left = left >> 1;
-            right = right >> 1;
+            left >>= 1;
+            right >>= 1;
 
             shift++;
         }
