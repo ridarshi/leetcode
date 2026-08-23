@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ridarshi/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ridarshi/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridarshi/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ridarshi/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ridarshi/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
