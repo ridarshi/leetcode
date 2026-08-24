@@ -69,6 +69,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ridarshi/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ridarshi/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ridarshi/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ridarshi/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ridarshi/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ridarshi/leetcode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/ridarshi/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Number Theory
 |  |
@@ -349,4 +351,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridarshi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ridarshi/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
