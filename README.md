@@ -75,6 +75,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ridarshi/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ridarshi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ridarshi/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ridarshi/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -107,6 +108,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ridarshi/leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridarshi/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -356,6 +358,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ridarshi/leetcode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridarshi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Newton's Method
 |  |
