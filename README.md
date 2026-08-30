@@ -64,6 +64,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ridarshi/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridarshi/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridarshi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
@@ -282,6 +283,7 @@
 | [0520-detect-capital](https://github.com/ridarshi/leetcode/tree/master/0520-detect-capital) |
 | [0572-subtree-of-another-tree](https://github.com/ridarshi/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridarshi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Function
 |  |
@@ -300,6 +302,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
@@ -310,6 +313,7 @@
 | [0231-power-of-two](https://github.com/ridarshi/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ridarshi/leetcode/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Design
 |  |
 | ------- |
