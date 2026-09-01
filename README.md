@@ -82,6 +82,7 @@
 | [0263-ugly-number](https://github.com/ridarshi/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ridarshi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridarshi/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -109,6 +110,7 @@
 | [0035-search-insert-position](https://github.com/ridarshi/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ridarshi/leetcode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/ridarshi/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/ridarshi/leetcode/tree/master/0367-valid-perfect-square) |
 ## Number Theory
 |  |
 | ------- |
