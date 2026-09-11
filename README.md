@@ -29,6 +29,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridarshi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridarshi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridarshi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ridarshi/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridarshi/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridarshi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -377,10 +379,12 @@
 | [0231-power-of-two](https://github.com/ridarshi/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridarshi/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
