@@ -132,6 +132,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ridarshi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -295,6 +296,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/ridarshi/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ridarshi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/ridarshi/leetcode/tree/master/0257-binary-tree-paths) |
@@ -407,4 +409,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ridarshi/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ridarshi/leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
