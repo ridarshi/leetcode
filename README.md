@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridarshi/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ridarshi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ridarshi/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -299,6 +300,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/ridarshi/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ridarshi/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -428,4 +430,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ridarshi/leetcode/tree/master/0547-number-of-provinces) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
