@@ -19,6 +19,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ridarshi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/ridarshi/leetcode/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +208,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ridarshi/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ridarshi/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ridarshi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridarshi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -286,6 +288,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ridarshi/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ridarshi/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ridarshi/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridarshi/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -425,6 +428,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ridarshi/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ridarshi/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -434,4 +438,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ridarshi/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
