@@ -49,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ridarshi/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ridarshi/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ridarshi/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridarshi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
@@ -314,6 +316,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ridarshi/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0709-to-lower-case](https://github.com/ridarshi/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ridarshi/leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridarshi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ridarshi/leetcode/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridarshi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Newton's Method
 |  |
