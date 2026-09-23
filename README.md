@@ -80,6 +80,7 @@
 | [0771-jewels-and-stones](https://github.com/ridarshi/leetcode/tree/master/0771-jewels-and-stones) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ridarshi/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridarshi/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -326,6 +327,7 @@
 | [0771-jewels-and-stones](https://github.com/ridarshi/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridarshi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ridarshi/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/ridarshi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
