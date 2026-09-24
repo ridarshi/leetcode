@@ -34,6 +34,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/ridarshi/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ridarshi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridarshi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridarshi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ridarshi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -66,6 +67,7 @@
 | [0645-set-mismatch](https://github.com/ridarshi/leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridarshi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
@@ -429,6 +431,7 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridarshi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Sliding Window
 |  |
 | ------- |
