@@ -92,15 +92,11 @@
 //     }
 // };
 
-
-
 // DFS SOLUTION
 class Solution {
 public:
-
     bool dfs(int i, int j, int parentrow, int parentcol,
-             vector<vector<bool>>& vis,
-             vector<vector<char>>& grid) {
+             vector<vector<bool>>& vis, vector<vector<char>>& grid) {
 
         // Mark current cell as visited
         vis[i][j] = true;
@@ -122,8 +118,7 @@ public:
             // Check:
             // 1. Neighbour is inside grid
             // 2. Neighbour has same character
-            if (nrow >= 0 && nrow < m &&
-                ncol >= 0 && ncol < n &&
+            if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n &&
                 grid[nrow][ncol] == grid[i][j]) {
 
                 // If neighbour is not visited,
@@ -147,7 +142,6 @@ public:
         // No cycle found
         return false;
     }
-
 
     bool containsCycle(vector<vector<char>>& grid) {
 
