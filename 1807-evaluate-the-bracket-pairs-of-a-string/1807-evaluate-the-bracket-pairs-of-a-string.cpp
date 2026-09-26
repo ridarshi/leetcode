@@ -1,35 +1,46 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
+
+        // Store key -> value
         unordered_map<string, string> mp;
 
-        for(auto it : knowledge){
+        // Put all knowledge pairs into the map
+        for (auto it : knowledge) {
             mp[it[0]] = it[1];
         }
 
-        string answer = "";
+        string ans = "";
 
-        for(int i = 0;i<s.length();i++){
-            if(s[i] != '('){
-                answer += s[i];
+        // Traverse the string
+        for (int i = 0; i < s.length(); i++) {
+
+            // Normal character
+            if (s[i] != '(') {
+                ans += s[i];
             }
+
+            // Opening bracket
             else {
                 string key = "";
-                i++;
+                i++;  // move past '('
 
-                while(s[i] != ')'){
+                // Collect characters until ')'
+                while (s[i] != ')') {
                     key += s[i];
                     i++;
                 }
 
-                if(mp.find(key) != mp.end()){
-                    answer += mp[key];
+                // Check whether key exists
+                if (mp.find(key) != mp.end()) {
+                    ans += mp[key];
                 }
-                else{
-                    answer += '?';
+                else {
+                    ans += '?';
                 }
             }
         }
-        return answer;
+
+        return ans;
     }
 };
