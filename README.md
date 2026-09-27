@@ -22,6 +22,7 @@
 | [0200-number-of-islands](https://github.com/ridarshi/leetcode/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ridarshi/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ridarshi/leetcode/tree/master/0645-set-mismatch) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
+| [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -310,6 +312,7 @@
 | [0226-invert-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridarshi/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ridarshi/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ridarshi/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ridarshi/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -475,6 +478,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ridarshi/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ridarshi/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ridarshi/leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ridarshi/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
