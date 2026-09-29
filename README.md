@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridarshi/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ridarshi/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridarshi/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ridarshi/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ridarshi/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ridarshi/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ridarshi/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -334,6 +336,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ridarshi/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/ridarshi/leetcode/tree/master/0168-excel-sheet-column-title) |
