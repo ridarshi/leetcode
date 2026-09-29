@@ -58,6 +58,7 @@
 | [0027-remove-element](https://github.com/ridarshi/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ridarshi/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ridarshi/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ridarshi/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ridarshi/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
@@ -340,6 +341,7 @@
 | [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ridarshi/leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ridarshi/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ridarshi/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ridarshi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/ridarshi/leetcode/tree/master/0257-binary-tree-paths) |
