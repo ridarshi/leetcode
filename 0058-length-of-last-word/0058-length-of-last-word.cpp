@@ -12,7 +12,7 @@ public:
             }
 
             // We found a space after counting the last word
-            else if(count != 0) {
+            else if(count != 0 && s[i] == ' ') {
                 return count;
             }
         }
