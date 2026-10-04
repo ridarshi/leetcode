@@ -140,6 +140,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ridarshi/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
@@ -341,6 +342,7 @@
 | [0013-roman-to-integer](https://github.com/ridarshi/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ridarshi/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/ridarshi/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ridarshi/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ridarshi/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -369,6 +371,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ridarshi/leetcode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/ridarshi/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ridarshi/leetcode/tree/master/0257-binary-tree-paths) |
 ## Heap (Priority Queue)
@@ -473,6 +476,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ridarshi/leetcode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridarshi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
