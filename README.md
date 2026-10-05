@@ -177,6 +177,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridarshi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridarshi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/ridarshi/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ridarshi/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ridarshi/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/ridarshi/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ridarshi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Function
@@ -456,6 +458,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ridarshi/leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/ridarshi/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridarshi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ridarshi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
