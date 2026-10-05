@@ -32,6 +32,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/ridarshi/leetcode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ridarshi/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ridarshi/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ridarshi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
