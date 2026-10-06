@@ -175,6 +175,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ridarshi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridarshi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -366,6 +367,7 @@
 | [0771-jewels-and-stones](https://github.com/ridarshi/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ridarshi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridarshi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridarshi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -472,6 +474,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ridarshi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridarshi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Sliding Window
@@ -493,6 +496,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ridarshi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridarshi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
