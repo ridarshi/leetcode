@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/ridarshi/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ridarshi/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ridarshi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ridarshi/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ridarshi/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ridarshi/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ridarshi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ridarshi/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ridarshi/leetcode/tree/master/0344-reverse-string) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ridarshi/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ridarshi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -167,6 +170,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ridarshi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ridarshi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -446,6 +450,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ridarshi/leetcode/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
