@@ -1,14 +1,13 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums, int k) {
-
         const int MOD = 1e9 + 7;
-        
+
         vector<int>cnt(31, 0);
 
         for(auto num : nums){
-            for(int bit = 0; bit < 31;bit++){
-                if(num & (1 << bit)){
+            for(int bit = 0;bit<31;bit++){
+                if(num & (1<<bit)){
                     cnt[bit]++;
                 }
             }
@@ -19,7 +18,7 @@ public:
         for(int i = 0;i<k;i++){
             long long x = 0;
 
-            for(int bit = 0;bit<31;bit++){
+            for(int bit = 0;bit < 31;bit++){
                 if(cnt[bit] > 0){
                     x = x | (1 << bit);
                     cnt[bit]--;
