@@ -129,6 +129,7 @@
 | [0836-rectangle-overlap](https://github.com/ridarshi/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridarshi/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/ridarshi/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridarshi/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridarshi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ridarshi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -483,6 +484,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ridarshi/leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/ridarshi/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/ridarshi/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridarshi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ridarshi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
