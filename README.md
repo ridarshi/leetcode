@@ -138,6 +138,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ridarshi/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridarshi/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/ridarshi/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/ridarshi/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -167,6 +168,7 @@
 | [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -470,6 +472,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -569,9 +572,14 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/ridarshi/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ridarshi/leetcode/tree/master/1051-height-checker) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
