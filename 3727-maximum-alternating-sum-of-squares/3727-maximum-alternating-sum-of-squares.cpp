@@ -1,3 +1,4 @@
+// TC : 0(n + M)
 class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
