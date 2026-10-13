@@ -1,47 +1,54 @@
-class Solution {
+// using counting sort
+// TC: 0(n + k)
 
-    void countingsort(vector<int> & nums){
+class Solution {
+    void countingSort(vector<int>& nums) {
 
         unordered_map<int, int> counts;
 
-        int minval = *min_element(nums.begin(), nums.end());
-        int maxval = *max_element(nums.begin(), nums.end());
+        // Find the minimum and maximum values in the array.
+        int minVal = *min_element(nums.begin(), nums.end());
+        int maxVal = *max_element(nums.begin(), nums.end());
 
-        int index = 0;
-
-        for(auto val : nums){
+        // Update element's count in the hash map.
+        for (auto& val : nums) {
             counts[val]++;
         }
 
-        for(int val = minval; val<=maxval; val++){
-            while(counts[val] >0){
+        int index = 0;
+        // Place each element in its correct position in the array.
+        for (int val = minVal; val <= maxVal; ++val) {
+            // Append all 'val's together if they exist.
+            while (counts[val] > 0) {
                 nums[index] = val;
                 index++;
                 counts[val]--;
             }
         }
     }
+
 public:
     int heightChecker(vector<int>& heights) {
-        vector<int> sortedheights = heights;
-
-        countingsort(sortedheights);
+        // Sort the array using counting sort.
+        vector<int> sortedHeights = heights;
+        countingSort(sortedHeights);
 
         int count = 0;
-
-        for(int i = 0; i<heights.size();i++){
-            if(heights[i] != sortedheights[i]){
-                count++;
+        // Loop through the original and sorted arrays.
+        for (int i = 0; i < sortedHeights.size(); ++i) {
+            // Increment count if elements at the same index differ.
+            if (heights[i] != sortedHeights[i]) {
+                count += 1;
             }
         }
-
+        // Return the total count of differing elements.
         return count;
     }
 };
 
-
 // // Better solution Using Sort function
 // // TC: 0(n log n)
+
 // class Solution {
 // public:
 //     int heightChecker(vector<int>& heights) {
