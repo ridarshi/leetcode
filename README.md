@@ -30,6 +30,7 @@
 | [0645-set-mismatch](https://github.com/ridarshi/leetcode/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/ridarshi/leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/ridarshi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ridarshi/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ridarshi/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -73,6 +74,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ridarshi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ridarshi/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/ridarshi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/ridarshi/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
@@ -84,6 +86,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridarshi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ridarshi/leetcode/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/ridarshi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ridarshi/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/ridarshi/leetcode/tree/master/1051-height-checker) |
