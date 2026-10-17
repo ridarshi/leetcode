@@ -54,6 +54,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridarshi/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ridarshi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ridarshi/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridarshi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ridarshi/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
@@ -100,6 +101,7 @@
 | [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridarshi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ridarshi/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ridarshi/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -127,6 +129,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ridarshi/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridarshi/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ridarshi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ridarshi/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridarshi/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
