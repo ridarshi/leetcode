@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
+        // sorting both the arrays
         sort(g.begin(), g.end());
         sort(s.begin(), s.end());
 
