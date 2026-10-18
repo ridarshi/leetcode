@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridarshi/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ridarshi/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ridarshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ridarshi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ridarshi/leetcode/tree/master/0018-4sum) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ridarshi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ridarshi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ridarshi/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -525,6 +527,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ridarshi/leetcode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ridarshi/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ridarshi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
