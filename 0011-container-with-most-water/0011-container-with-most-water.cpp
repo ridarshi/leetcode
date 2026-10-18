@@ -9,6 +9,7 @@ public:
 
         while (left < right) {
             int water = 0;
+
             if (height[left] > height[right]) {
                 water = height[right] * (right - left);
                 maxwater = max(maxwater, water);
@@ -19,6 +20,7 @@ public:
                 left++;
             }
         }
+
         return maxwater;
     }
 };
