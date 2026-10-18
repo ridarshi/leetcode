@@ -47,6 +47,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ridarshi/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridarshi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ridarshi/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ridarshi/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ridarshi/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ridarshi/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -87,6 +88,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/ridarshi/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/ridarshi/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ridarshi/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [1051-height-checker](https://github.com/ridarshi/leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridarshi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ridarshi/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ridarshi/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridarshi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridarshi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -540,6 +543,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ridarshi/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridarshi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ridarshi/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ridarshi/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/ridarshi/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ridarshi/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ridarshi/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
