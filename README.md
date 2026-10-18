@@ -81,6 +81,7 @@
 | [0344-reverse-string](https://github.com/ridarshi/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ridarshi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ridarshi/leetcode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/ridarshi/leetcode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ridarshi/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ridarshi/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
@@ -412,6 +413,7 @@
 | [0344-reverse-string](https://github.com/ridarshi/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ridarshi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/ridarshi/leetcode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/ridarshi/leetcode/tree/master/0541-reverse-string-ii) |
 | [0572-subtree-of-another-tree](https://github.com/ridarshi/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ridarshi/leetcode/tree/master/0680-valid-palindrome-ii) |
