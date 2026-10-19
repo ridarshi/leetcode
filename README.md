@@ -156,6 +156,7 @@
 | [0231-power-of-two](https://github.com/ridarshi/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ridarshi/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ridarshi/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/ridarshi/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ridarshi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridarshi/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ridarshi/leetcode/tree/master/0367-valid-perfect-square) |
@@ -501,6 +502,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ridarshi/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 ## Monotonic Stack
@@ -607,6 +609,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ridarshi/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/ridarshi/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Bubble Sort
@@ -616,6 +619,7 @@
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ridarshi/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
 ## Binary Indexed Tree
 |  |
@@ -641,4 +645,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ridarshi/leetcode/tree/master/0455-assign-cookies) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ridarshi/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ridarshi/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
