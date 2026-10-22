@@ -83,6 +83,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ridarshi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ridarshi/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ridarshi/leetcode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/ridarshi/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ridarshi/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ridarshi/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ridarshi/leetcode/tree/master/0844-backspace-string-compare) |
@@ -162,6 +163,7 @@
 | [0367-valid-perfect-square](https://github.com/ridarshi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/ridarshi/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridarshi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/ridarshi/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/ridarshi/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
@@ -205,6 +207,7 @@
 | [0069-sqrtx](https://github.com/ridarshi/leetcode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/ridarshi/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/ridarshi/leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/ridarshi/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ridarshi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridarshi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ridarshi/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
