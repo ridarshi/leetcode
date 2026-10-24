@@ -245,6 +245,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ridarshi/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/ridarshi/leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridarshi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ridarshi/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/ridarshi/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -445,6 +446,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ridarshi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ridarshi/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/ridarshi/leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridarshi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ridarshi/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ridarshi/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
