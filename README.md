@@ -17,6 +17,7 @@
 | [0041-first-missing-positive](https://github.com/ridarshi/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ridarshi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ridarshi/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ridarshi/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ridarshi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridarshi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -199,6 +200,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ridarshi/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ridarshi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ridarshi/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ridarshi/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ridarshi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0542-01-matrix](https://github.com/ridarshi/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -559,6 +561,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ridarshi/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ridarshi/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ridarshi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ridarshi/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
