@@ -70,6 +70,7 @@
 | [3731-find-missing-elements](https://github.com/ridarshi/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ridarshi/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ridarshi/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ridarshi/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/ridarshi/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ridarshi/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -209,6 +210,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ridarshi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ridarshi/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ridarshi/leetcode/tree/master/1025-divisor-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ridarshi/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [0645-set-mismatch](https://github.com/ridarshi/leetcode/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridarshi/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ridarshi/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ridarshi/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -645,6 +648,7 @@
 | [1254-number-of-closed-islands](https://github.com/ridarshi/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ridarshi/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ridarshi/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ridarshi/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
